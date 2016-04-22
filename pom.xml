@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.careydevelopment</groupId>
   <artifactId>ip-location-reader</artifactId>
-  <version>v1.0</version>
+  <version>1.0</version>
   
   <dependencies>
   
